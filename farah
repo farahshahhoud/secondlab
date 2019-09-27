@@ -1,0 +1,8 @@
+#include <iostream>
+
+void main()
+{
+  print('Ask user for information');
+  return 0;
+  }
+  
